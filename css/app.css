@@ -1,0 +1,27 @@
+@import "foundation/components/side-nav";
+header{
+  margin: 10px;
+  padding: 5px;
+  background-color: rgba(240, 0, 0, 0.5);
+}
+#figuras img{
+  width: 32%;
+}
+body section{
+  background-color: rgb(255, 193, 255);
+  margin: 10px;
+  padding: 5px;
+}
+#menu li a{
+  border: 2px solid white;
+  color: rgb(143, 83, 119);
+}
+.titulo{
+  color: white;
+}
+#activo{
+  background-color: rgb(234, 134, 255);
+}
+#historia{
+  color: rgb(125, 120, 220);
+}
