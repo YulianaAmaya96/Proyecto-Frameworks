@@ -1,0 +1,45 @@
+header{
+  background-color: pink;
+  margin: 10px 10px 0 10px;
+  padding: 5px;
+}
+body #contenido{
+  background-color: rgb(255, 206, 213);
+  margin: 10px;
+  padding: 5px;
+}
+.biografia{
+  background-color: rgb(205, 168, 247);
+  margin: 5px;
+  padding: 10px;
+}
+#logo-musica{
+  width: 25%;
+  float: left;
+}
+#redes figure img{
+  width: 10%;
+  float: right;
+  padding: 15% 0 0 0;
+}
+#redes{
+  float: right;
+  display: inline;
+}
+#navegador{
+  background-color: orange;
+  margin: 0 10px 0 10px;
+  text-align: center;
+}
+#navegador #menu div{
+  border: 5px solid white;
+}
+#contenido figure img{
+  width: 100%;
+}
+#comentario input{
+  background: rgb(227, 206, 251);
+}
+#comentario textarea{
+  background: rgb(227, 206, 251);
+}
